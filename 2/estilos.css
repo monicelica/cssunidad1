@@ -1,0 +1,14 @@
+div{
+	display: block;
+    height: 80px;
+    width: 170px;
+    margin: 13px;
+    padding: 10px;
+}
+.orange{
+	background-color: orange;
+}
+.brown{
+	background-color: black;
+    color: white;
+}
